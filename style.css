@@ -1,0 +1,27 @@
+body {
+    background-image: url("Image2.png");
+    background-repeat: no-repeat;
+    background-position:  right top;
+    background-attachment: scroll;
+    background-color: powderblue;
+    background-size: 500px 400px;
+  }
+  .title{
+      color: red;
+  }
+  .column{
+     background-color: lightgrey;
+  }
+  .skill-row{
+      background-color: lightsalmon;
+  }
+  h1{
+      font-size: 5.625em;
+      margin-top: 0%;
+      font-family: cursive;
+  }
+  h2{
+      font-size: 4.em;
+      margin-top: 0%;
+      font-family: cursive;
+  }
